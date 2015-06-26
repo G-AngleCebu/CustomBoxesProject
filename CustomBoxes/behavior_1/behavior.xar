@@ -176,7 +176,7 @@ from mysql.connector import (connection)
 from mysql.connector import errorcode
 import datetime
 
-#Welcom to the git world geraldine
+#SONA BLABLABLAssss
 
 class MyClass(GeneratedClass):
     def __init__(self):
